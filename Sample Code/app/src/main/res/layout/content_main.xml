@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.dji.sdk.sample.internal.view.MainContent xmlns:android="http://schemas.android.com/apk/res/android"
+<com.ikramatic.dronemonitor.sample.internal.view.MainContent xmlns:android="http://schemas.android.com/apk/res/android"
                                               xmlns:tools="http://schemas.android.com/tools"
                                               android:layout_width="match_parent"
                                               android:layout_height="wrap_content"
                                               android:layout_gravity="center"
                                               android:clickable="true"
                                               android:orientation="vertical"
-                                              tools:context=".internal.controller.MainActivity">
+                                              tools:context="com.ikramatic.dronemonitor.sample.internal.controller.MainActivity">
 
     <TextView
         android:id="@+id/text_connection_status"
@@ -103,4 +103,4 @@
         android:textSize="15dp"/>
 
 
-</com.dji.sdk.sample.internal.view.MainContent>
+</com.ikramatic.dronemonitor.sample.internal.view.MainContent>

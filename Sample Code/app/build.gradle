@@ -13,7 +13,7 @@ android {
     useLibrary 'org.apache.http.legacy'
 
     defaultConfig {
-        applicationId "com.dji.sdk.sample"
+        applicationId "com.ikramatic.dronemonitor"
         minSdkVersion 19
         targetSdkVersion 28
         multiDexEnabled true
